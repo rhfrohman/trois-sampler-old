@@ -3,7 +3,7 @@
 A browser-based audio sampler for chopping, playing, and processing samples from any audio file. Upload a track, drop markers on the waveform, trigger up to 16 pads with your keyboard, add effects, and export trimmed recordings — all in the browser using the Web Audio API.
 
 <div align="center">
-  <img width="1200" height="475" alt="Trois Sampler" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="Trois Sampler" src="screenshot1.png" />
 </div>
 
 ## Features
