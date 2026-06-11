@@ -1,0 +1,7 @@
+{
+  "name": "Trois Sampler",
+  "description": "A quick music sampler app to chop and play audio samples from a waveform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
