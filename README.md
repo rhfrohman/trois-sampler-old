@@ -6,6 +6,10 @@ A browser-based audio sampler for chopping, playing, and processing samples from
   <img width="1200" height="475" alt="Trois Sampler" src="screenshot2.png" />
 </div>
 
+<div align="center">
+  <img width="1200" height="475" alt="Trois Sampler" src="screenshot1.png" />
+</div>
+
 ## Features
 
 ### Sample chopping
